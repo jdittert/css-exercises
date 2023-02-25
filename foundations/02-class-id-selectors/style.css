@@ -1,0 +1,20 @@
+.pink {
+    background-color: rgb(255, 167, 167);
+    font-family: 'Veranda', 'DejaVu Sans', 'sans-serif';
+}
+
+.third {
+    font-size: 24px;    
+}
+
+#two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#four {
+    font-weight: bold;
+    background-color: #008000;
+    font-size: 24px;
+}
+
